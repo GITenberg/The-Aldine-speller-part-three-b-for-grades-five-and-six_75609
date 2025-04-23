@@ -1,0 +1,57 @@
+_repo: The-Aldine-speller-part-three-b-for-grades-five-and-six_75609
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Bryce, Catherine T. (Catherine Turner)
+    aliases:
+    - Bryce, C. T. (Catherine Turner)
+    - Bryce, Catherine Turner
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '53290'
+    url: http://www.gutenberg.org/2009/agents/53290
+  - agent_name: Sherman, Frank J. (Frank James)
+    alias: Sherman, Frank James
+    birthdate: 1874
+    deathdate: 1945
+    gutenberg_agent_id: '53348'
+    url: http://www.gutenberg.org/2009/agents/53348
+description: 'Reading ease score: 59.7 (10th to 12th grade). Somewhat difficult to
+  read.'
+gutenberg_bookshelf: 'Browsing: Teaching & Education'
+gutenberg_issued: '2025-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75609'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.32044081497760&view=1up&seq=5
+pgterms:marc905: 20200710140848bryce
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: hekula03 and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bNewson & Company, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spellers'
+- !lcc 'PE'
+- GITenberg
+summary: '"The Aldine Speller, Part Three: For Grades Five and Six" by Catherine T.
+  Bryce and Frank J. Sherman is an educational resource intended for teaching spelling
+  to elementary school students, specifically those in grades five and six. Written
+  in the early 20th century, this book focuses on effective spelling education, addressing
+  common issues faced by both teachers and students in mastering spelling. Its likely
+  topic revolves around the methods and techniques utilized for improving spelling
+  skills in young learners.  The book is structured to provide a variety of spelling
+  words categorized for practical learning purposes, along with phonetic foundations,
+  spelling rules, and various exercises to engage students. It encourages teachers
+  to adopt a systematic approach to spelling, shifting the focus from mere testing
+  to actual teaching. The content includes lists of frequently misspelled words, practical
+  vocabulary relatable to everyday life, and suggests methods to create interest in
+  the subject. The inclusion of stories and dictation exercises further enriches the
+  learning experience, aiming to develop a strong spelling sense while also enhancing
+  students'' overall vocabulary. (This is an automatically generated summary.)'
+title: 'The Aldine speller, part three : $b for grades five and six'
+url: http://www.gutenberg.org/ebooks/75609
