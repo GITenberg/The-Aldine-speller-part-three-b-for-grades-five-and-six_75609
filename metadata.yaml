@@ -1,5 +1,8 @@
 _repo: The-Aldine-speller-part-three-b-for-grades-five-and-six_75609
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75609-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Bryce, Catherine T. (Catherine Turner)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53348
 description: 'Reading ease score: 59.7 (10th to 12th grade). Somewhat difficult to
   read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75609#The-Aldine-speller-part-three-b-for-grades-five-and-six
 gutenberg_bookshelf: 'Browsing: Teaching & Education'
 gutenberg_issued: '2025-03-13'
 gutenberg_type: Text
